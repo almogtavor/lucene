@@ -6,3 +6,4 @@ ics>=0.4
 console-menu>=0.5.1
 PyGithub
 jira
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
